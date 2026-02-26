@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDJ2cTh5amwyeDM4YWpnZDd5MXh1a3RvcnlhOTV0NTF2OTN6NXg1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFKqnCdLPNOKc/giphy.gif"  />
+<img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXYyMTNjM2VlbHI1anpoYW0zbXlpbHFscnBheHMxMzJkajF1YzB3ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif"  />
 
 ###
 
@@ -43,7 +43,6 @@
 
 ###
 
-<br clear="both">
 
 ###
 
