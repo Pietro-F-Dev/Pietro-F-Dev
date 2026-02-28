@@ -4,10 +4,6 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Pietro-F-Dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <img align="right" height="120" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXYyMTNjM2VlbHI1anpoYW0zbXlpbHFscnBheHMxMzJkajF1YzB3ZyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/7NoNw4pMNTvgc/giphy.gif"  />
