@@ -1,5 +1,5 @@
 <!-- =============================================== -->
-<!--   HEADER ANIMADO                                -->
+<!--   ANIMATED HEADER                               -->
 <!-- =============================================== -->
 
 <div align="center">
@@ -13,7 +13,7 @@
 </div>
 
 <!-- =============================================== -->
-<!--   BANNER SVG REAL (substitui o ANSI quebrado)   -->
+<!--   REAL SVG BANNER (replaces broken ANSI)        -->
 <!-- =============================================== -->
 <!-- Status badges -->
 <div align="center">
@@ -35,7 +35,7 @@
 ---
 
 <!-- =============================================== -->
-<!--   SOBRE MIM - DOSSIÊ                            -->
+<!--   ABOUT ME - DOSSIER                            -->
 <!-- =============================================== -->
 
 <h2 align="center">
@@ -53,23 +53,23 @@ const developer = {
   🎂: 18,
   📍: "Brazil",
   🎓: {
-    universidade: "Unicesumar",
-    curso: "Engenharia de Software",
+    university: "Unicesumar",
+    course: "Software Engineering",
     bootcamp: "DevClub"
   },
   💼: {
     status: "Open to work 🟢",
-    procurando: "Estágio | Júnior",
-    modalidade: ["Remoto", "Híbrido", "Presencial"]
+    lookingFor: "Internship | Junior",
+    workMode: ["Remote", "Hybrid", "On-site"]
   },
   💡: {
-    paixao: "Resolver problemas reais com código",
-    superpoder: "Aprender rápido e sob pressão",
-    fraqueza: "Café > Sono"
+    passion: "Solving real problems with code",
+    superpower: "Learning fast and under pressure",
+    weakness: "Coffee > Sleep"
   },
   🧠: {
-    aprendendo: ["React", "TypeScript", "Node.js"],
-    proximaMissao: "Dominar arquitetura fullstack"
+    learning: ["React", "TypeScript", "Node.js"],
+    nextMission: "Master fullstack architecture"
   }
 };
 
@@ -85,7 +85,7 @@ console.log(`> Connecting with ${developer.🆔}...`);
 <br><br>
 
 ```diff
-+ 🎯 Foco: Web Development
++ 🎯 Focus: Web Development
 + 🚀 Vibe: Build. Break. Learn.
 ! ⚡ Mood: Always coding
 - 😴 Status: Sleep is overrated
@@ -98,10 +98,10 @@ console.log(`> Connecting with ${developer.🆔}...`);
 ---
 
 <!-- =============================================== -->
-<!--   PIADA DE PROGRAMADOR - JOKE API               -->
+<!--   PROGRAMMER JOKE - JOKE API                    -->
 <!-- =============================================== -->
 
-<h2 align="center">🎭 PIADA DO DIA</h2>
+<h2 align="center">🎭 JOKE OF THE DAY</h2>
 
 <div align="center">
   
@@ -112,10 +112,10 @@ console.log(`> Connecting with ${developer.🆔}...`);
 ---
 
 <!-- =============================================== -->
-<!--   ARSENAL TECNOLÓGICO (tudo padronizado)        -->
+<!--   TECH ARSENAL (all standardized)               -->
 <!-- =============================================== -->
 
-<h2 align="center">⚔️ ARSENAL TECNOLÓGICO</h2>
+<h2 align="center">⚔️ TECH ARSENAL</h2>
 
 <div align="center">
 
@@ -125,7 +125,7 @@ console.log(`> Connecting with ${developer.🆔}...`);
 ### ⚙️ Back-end
 <img src="https://skillicons.dev/icons?i=nodejs,express&perline=7" />
 
-### 🧰 Ferramentas & Deploy
+### 🧰 Tools & Deploy
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&perline=7" />
 
 </div>
@@ -133,10 +133,10 @@ console.log(`> Connecting with ${developer.🆔}...`);
 ---
 
 <!-- =============================================== -->
-<!--   QUOTE BOX - CITAÇÃO ROTATIVA                  -->
+<!--   QUOTE BOX - ROTATING QUOTE                    -->
 <!-- =============================================== -->
 
-<h2 align="center">💭 FILOSOFIA DO DEV</h2>
+<h2 align="center">💭 DEV PHILOSOPHY</h2>
 
 <div align="center">
   
@@ -147,11 +147,11 @@ console.log(`> Connecting with ${developer.🆔}...`);
 ---
 
 <!-- =============================================== -->
-<!--   PROJETOS                                      -->
+<!--   PROJECTS                                      -->
 <!-- =============================================== -->
 <p align="center">
   <a href="https://portfolio-pietrofdev.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_VER_PORTFÓLIO_COMPLETO-0d1117?style=for-the-badge&logoColor=00f5ff&labelColor=0d1117&color=00f5ff" />
+    <img src="https://img.shields.io/badge/🌐_VIEW_FULL_PORTFOLIO-0d1117?style=for-the-badge&logoColor=00f5ff&labelColor=0d1117&color=00f5ff" />
   </a>
 </p>
 
@@ -175,7 +175,7 @@ console.log(`> Connecting with ${developer.🆔}...`);
 ---
 
 <!-- =============================================== -->
-<!--   COBRINHA ANIMADA                              -->
+<!--   ANIMATED SNAKE                                -->
 <!-- =============================================== -->
 
 <h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
@@ -187,10 +187,10 @@ console.log(`> Connecting with ${developer.🆔}...`);
 ---
 
 <!-- =============================================== -->
-<!--   TROFÉUS                                       -->
+<!--   TROPHIES                                      -->
 <!-- =============================================== -->
 
-<h2 align="center">🏆 CONQUISTAS DESBLOQUEADAS</h2>
+<h2 align="center">🏆 UNLOCKED ACHIEVEMENTS</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pietro-F-Dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
@@ -199,20 +199,20 @@ console.log(`> Connecting with ${developer.🆔}...`);
 ---
 
 <!-- =============================================== -->
-<!--   CONTATO                                       -->
+<!--   CONTACT                                       -->
 <!-- =============================================== -->
 
-<h2 align="center">📡 ESTABELECER CONEXÃO</h2>
+<h2 align="center">📡 ESTABLISH CONNECTION</h2>
 
 ```bash
 $ pietro --connect
-> Iniciando handshake...
-> Aguardando você do outro lado da conexão... 🔗
+> Starting handshake...
+> Waiting for you on the other side of the connection... 🔗
 ```
 
 <p align="center">
   <a href="https://portfolio-pietrofdev.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/-PORTFÓLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00f5ff&labelColor=0d1117" />
+    <img src="https://img.shields.io/badge/-PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=00f5ff&labelColor=0d1117" />
   </a>
   <a href="https://www.linkedin.com/in/pietro-minto/" target="_blank">
     <img src="https://img.shields.io/badge/-LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00f5ff&labelColor=0d1117" />
@@ -228,13 +228,13 @@ $ pietro --connect
 ---
 
 <!-- =============================================== -->
-<!--   ASSINATURA FINAL                              -->
+<!--   FINAL SIGNATURE                               -->
 <!-- =============================================== -->
 
 <div align="center">
 
 ```diff
-@@ "Código limpo não é escrito seguindo regras. É escrito por quem se importa." @@
+@@ "Clean code is not written by following a set of rules. It is written by someone who cares." @@
 + - Robert C. Martin
 ```
 
@@ -246,7 +246,7 @@ $ pietro --connect
 
 <div align="center">
   
-  ### ⭐ Se você chegou até aqui, considera deixar uma estrela em algum projeto! ⭐
+  ### ⭐ If you made it this far, consider leaving a star on one of my projects! ⭐
   
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" />
 
